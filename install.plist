@@ -12,15 +12,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1/test.ipa</string>
+					<string>http://192.168.0.105/TestApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.test.testApp</string>
+				<string>com.ccbhome.xatest1</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.100</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
