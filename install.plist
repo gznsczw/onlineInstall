@@ -18,7 +18,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zw.test</string>
+				<string>com.hrst.merits</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
